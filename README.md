@@ -1,7 +1,10 @@
 # PARKING-ALERT-SYSTEM-USING-ARDUINO
 OBJECTIVE:
 Aims at providing a confusion free and easy parking. 
+
 INTRODUCTION:
+
+
 This circuit system is to help the car driver to detect the availability of  space   while parking. This whole process includes the use of Arduino ,  Display and ultrasonic sensor.   A parking slot is a cleared area that is intended for parking vehicles. Usually, the term refers to a dedicated area that has been provided with a durable or semi durable surface.
 The main importance  of this project is to reduce the risk of finding the parking areas and to save the time of the user. It eliminates the unnecessary traveling of vehicles across the filled parking slots
 
